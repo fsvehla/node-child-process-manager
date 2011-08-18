@@ -1,7 +1,7 @@
 {
   "name":        "node-child-process-manager",
   "keywords": [ "tcp", "debug" ],
-  "version":     "0.2.3",
+  "version":     "0.2.4",
   "author": "Ferdinand Svehla <f.svehla@gmail.com>",
   "maintainers": [
     {
