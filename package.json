@@ -1,7 +1,7 @@
 {
   "name":        "node-child-process-manager",
   "keywords": [ "tcp", "debug" ],
-  "version":     "0.2.8",
+  "version":     "0.2.9",
   "author": "Ferdinand Svehla <f.svehla@gmail.com>",
   "maintainers": [
     {
@@ -14,6 +14,7 @@
   "os": [ "linux", "darwin" ],
   "main": "lib/node-child-process-manager.js",
   "dependencies": {
+    "underscore": "1.1.7"
   },
   "repositories": {
     "type": "git",
