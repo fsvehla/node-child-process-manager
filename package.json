@@ -15,6 +15,9 @@
   "main": "lib/node-child-process-manager.js",
   "dependencies": {
   },
+  "devDependencies" : {
+    "jshint":"*"
+  },
   "repositories": {
     "type": "git",
     "url": "https://fsvehla@github.com/fsvehla/node-child-process-manager.git"
